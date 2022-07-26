@@ -1,0 +1,25 @@
+.startupic {
+    margin-top: 127px;
+
+}
+
+.startupic__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #72787D;
+    width: 138px;
+}
+
+.startupic__sector {
+    width: 850px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.startupic__box {
+    margin-left: 101px;
+}

@@ -1,0 +1,29 @@
+.building{
+    margin-top: 142px;
+}
+.bulding__title{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    color: #212B31;
+    margin-top: 142px;
+    text-align: center;
+}
+.bulding__description{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 20px;
+color: #72787D;
+margin-top: 16px;
+margin-left: auto;
+margin-right: auto;
+width: 1015px;
+text-align: center;
+}
+.bulding__content{
+    display: flex;
+    justify-content: center;
+}
+.bulding__img{
+    margin-top: 40px;
+}

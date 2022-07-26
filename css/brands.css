@@ -1,0 +1,11 @@
+.brands{
+    margin-top: 71px;
+}
+.brands__content{
+    display: flex;
+   flex-wrap: wrap ;
+   justify-content: center;
+}
+.brands-img-6{
+    margin-top: 10px;
+}

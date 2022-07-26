@@ -1,0 +1,66 @@
+.work{
+    margin-top: 143px;
+}
+.work__title{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+color: #212B31;
+}
+.work__description{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+color: #72787D;
+width: 462px;
+margin-top: 21px;
+margin-bottom: 60px;
+
+}
+.work__suptitle{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: #212B31;
+    position: relative;
+}
+.work__details{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+    width: 448px;
+    margin-top: 10px;
+
+}
+.work__content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+}
+.work__ol{
+position: absolute;
+top: 4px;
+left: -74px;
+width: 40px;
+height: 40px;
+border: 1px solid #DADEDF;
+text-align: center;
+display: flex;
+align-items: center;justify-content: center;
+
+}
+.work__sector{
+    margin-top: 13px;
+}
+
+.work__btns{
+    margin-top: 30px;
+    margin-left: -74px;
+   
+}

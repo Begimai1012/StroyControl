@@ -1,0 +1,22 @@
+.logistics{
+    margin-top: 149px;
+}
+.logistics__title{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 48px;
+line-height: 64px;
+text-align: center;
+color: #212B31;
+}
+.logistics__content{
+    position: relative;
+    width: 1056px;
+    height: 466px;
+}
+.logistics__box{
+    position: absolute;
+    top: 117px;
+    left: 38px;
+    text-align: center;
+}
